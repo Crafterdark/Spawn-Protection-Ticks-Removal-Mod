@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "modid",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Spawn Protection Ticks Removal Mod",
+  "description": "Remove spawn protection ticks.",
   "authors": [
     "Me!"
   ],
@@ -24,7 +24,7 @@
   ],
   "depends": {
     "fabricloader": ">=0.14.19",
-    "minecraft": "1.8.9"
+    "minecraft": "1.8.x"
   },
   "suggests": {
     "another-mod": "*"
