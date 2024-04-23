@@ -1,17 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "spawnprotectionticksremoval",
   "version": "${version}",
   "name": "Spawn Protection Ticks Removal Mod",
   "description": "Remove spawn protection ticks.",
   "authors": [
-    "Me!"
+    "Crafterdark"
   ],
   "contact": {
-    "homepage": "https://legacyfabric.net/",
-    "sources": "https://github.com/Legacy-Fabric/fabric-example-mod"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
   "environment": "*",
   "entrypoints": {
