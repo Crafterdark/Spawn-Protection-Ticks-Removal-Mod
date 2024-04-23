@@ -10,7 +10,7 @@
   "contact": {
   },
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/spawnprotectionticksremoval/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -18,7 +18,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "spawnprotectionticksremoval.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.11.1",
